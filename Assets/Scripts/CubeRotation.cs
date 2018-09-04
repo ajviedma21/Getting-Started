@@ -19,4 +19,4 @@ public class CubeRotation : MonoBehaviour
         transform.Rotate(Vector3.up, rotateSpeed);
     }
 }
-// hello world
+// hello world, yeet
