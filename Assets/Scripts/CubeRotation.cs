@@ -5,7 +5,7 @@ using UnityEngine;
 public class CubeRotation : MonoBehaviour
 {
     // this is where I declare a variable
-    public float rotateSpeed = 10000000;
+    public float rotateSpeed = 20;
 
     // Use this for initialization
     void Start()
@@ -19,4 +19,4 @@ public class CubeRotation : MonoBehaviour
         transform.Rotate(Vector3.one, rotateSpeed);
     }
 }
-// hello world, yeet
+//yeet
